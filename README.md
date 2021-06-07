@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @huiyu8794
+- 👋 Hi, I’m Huiyu
 - 👀 Interested in **Artificial Intelligence** and **Computer Vision**
 - 🌱 A master student of computer science in National Tsing Hua University
 - 📫 Reach me via huiyu8794@gmail.com
